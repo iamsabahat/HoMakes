@@ -1,0 +1,17 @@
+
+.card { 
+  margin-bottom: 30px;
+}
+
+.card-footer {
+  padding: 0;
+}
+
+.card-footer button {
+  cursor: pointer;
+}
+
+.btn-block{
+  background-image: linear-gradient( to right,  rgba(172,30,255,1) 0.3%, rgba(65,35,251,1) 55.8%, rgba(35,251,224,1) 105.1% );
+  border: none;
+}
